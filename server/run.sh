@@ -1,0 +1,1 @@
+json-server --host 172.20.10.3 --watch db.json
